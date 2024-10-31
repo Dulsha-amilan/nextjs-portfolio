@@ -42,8 +42,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+          Enthusiastic Software and computer Engineer deeply passionate about technology, seeking an exciting opportunity as a software engineer. Eager to leverage my diverse skill set and practical knowledge to craft innovative solutions in a dynamic professional Software environment. Proficient in problem-solving, effective communication, and talented at managing time efficiently. I aim to bring an adaptable mindset and a drive for excellence to contribute meaningfully to your team's succes
           </p>
           <div>
             <Link
@@ -53,7 +52,7 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="/"
+              href="Senavirathna%20 W.H.D.A.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
